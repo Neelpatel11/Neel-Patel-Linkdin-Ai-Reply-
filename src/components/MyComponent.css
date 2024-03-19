@@ -1,0 +1,7 @@
+.my-extension-container {
+  position: absolute;
+  bottom: -15px; 
+  right: 39px;
+  padding: 10px; 
+  cursor: pointer;
+}
